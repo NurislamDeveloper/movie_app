@@ -1,0 +1,19 @@
+{
+"items" : [
+{
+    "id": "p1",
+    "name":"item 1",
+    "description": "description 1" 
+},
+{
+    "id":"p2",
+    "name":"item 2",
+    "description":"description 2"
+},
+ {
+    "id":"p3",
+    "name":"item 3",
+     "description":"description 3"
+  }
+ ]
+}
